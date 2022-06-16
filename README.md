@@ -5,3 +5,6 @@ Electrones incluye la reproducción de los datos de AMS del flujo de electrones 
 
 Positrones incluye la reproducción de los datos de AMS del flujo de positrones junto a la explicación del término fuente suponiendo su origen de fuentes 
 astrofísicas en concreto los púlsares Geminga y Monogem.
+
+Púlsares incluye pruebas acerca de cómo afecta el cambio en los parámetros de los púlsares, especialmente los realcionados con la difusión de partículas en
+el medio interestelar.
